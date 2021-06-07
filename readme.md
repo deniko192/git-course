@@ -1,3 +1,4 @@
 # Git and Github Course
 
-Crash course for Git
+test Git repository for learning GitHub
+
